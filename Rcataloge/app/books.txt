@@ -1,0 +1,7 @@
+How to get a good grade in DOS in 20 minutes a day.,28,4,distributedsystems,100
+RPCs for Dummies.,20,8,distributedsystems,101
+Xen and the Art of Surviving Graduate School.,20,16,graduateschool,102
+Cooking for the Impatient Graduate Student.,50,32,graduateschool,103
+How to Finish Project 3 on Time.,80,20,distributedsystems,104
+Why Theory Classes are so Hard.,14,10,graduateschool,105
+Spring in the pioneer valley.,188,15,natural,106
